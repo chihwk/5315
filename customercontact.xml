@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <customers>
+    <data>
+      <company>Hawaiian Airlines</company>
+      <industry>Airline</industry>
+      <headquarter>Honolulu, Hawaii USA</headquarter>
+      <number_employees>6130</number_employees>
+      <revenue>2.451 billions USD</revenue>
+    </data>
+    <data>
+      <company>BMW</company>
+      <industry>Automobiles, Motorcycles</industry>
+      <headquarter>Munich, Germany </headquarter>
+      <number_employees>129932</number_employees>
+      <revenue>98.678 billions Euro</revenue>
+    </data>
+    <data>
+      <company>Apple</company>
+      <industry>Computer Hardware, Computer Software, Consumer Electronic, Digital distribution, Semiconductors, Fabless Silicon Design, Corprate Venture Capital</industry>
+      <headquarter>Cupertino,California USA</headquarter>
+      <number_employees>123000</number_employees>
+      <revenue>229.234 billions USD</revenue>
+    </data>
+    <data>
+      <company>JP Morgan Chase</company>
+      <industry>Banking, Financial Services</industry>
+      <headquarter>New York City, New York USA</headquarter>
+      <number_employees>252239</number_employees>
+      <revenue>99.624 billions USD</revenue>
+    </data>
+    <data>
+      <company>Foxconn</company>
+      <industry>Electronics</industry>
+      <headquarter>Taipei Taiwan</headquarter>
+      <number_employees>1300000</number_employees>
+      <revenue>131.82 billions USD</revenue>
+    </data>
+    <data>
+      <company>HTC</company>
+      <industry>Telecommunication Equipment</industry>
+      <headquarter>New Taipei City, Taiwan</headquarter>
+      <number_employees>14332</number_employees>
+      <revenue>132.7 million TWD</revenue>
+    </data>
+    <data>
+      <company>Taiwan Semiconductor Manufacturing Company</company>
+      <industry>Semiconductors</industry>
+      <headquarter>Hsinchu, Taiwan</headquarter>
+      <number_employees>46968</number_employees>
+      <revenue>29.257 billions USD</revenue>
+    </data>
+    <data>
+      <company>Microsoft</company>
+      <industry>Computer Software,Computer Hardware,Consumer Electronics,Social Networking Service,Cloud Computing,Video Gamea,Internet,Corporate Venture Capital</industry>
+      <headquarter>Redmond,Washington USA </headquarter>
+      <number_employees>124000</number_employees>
+      <revenue>89.95 billions USD</revenue>
+    </data>
+
+  </customers>
